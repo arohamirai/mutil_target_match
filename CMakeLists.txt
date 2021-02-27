@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(LK_optical_flow)
+project(model_detect_project)
 
 set( CMAKE_BUILD_TYPE Release )
 set( CMAKE_CXX_FLAGS "-std=c++11 -O3" )
